@@ -1,0 +1,12 @@
+{
+  "name": "zuriportfolio",
+  "version": "1.0.0",
+  "description": "This is a portfolio project for Virtue Azuka",
+  "main": "script.js",
+  "scripts": {
+    "test": "test",
+    "start": "node script.js"
+  },
+  "author": "Virtue Azuka",
+  "license": "ISC"
+}
